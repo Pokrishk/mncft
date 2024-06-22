@@ -1,0 +1,17 @@
+{
+  "item.modtrash.cat": "Cat",
+  "item.modtrash.sillycat": "Silly cat",
+  "itemGroup.modtrash_tab": "Trash mod",
+  "block.modtrash.silly_block": "Silly block",
+  "block.modtrash.cat_ore": "Cat ore",
+  "block.modtrash.deepslate_cat_ore": "Deepslate cat ore",
+  "item.modtrash.custom_pickaxe": "Custom pickaxe",
+  "item.modtrash.custom_axe": "Custom axe",
+  "item.modtrash.custom_hoe": "Custom hoe",
+  "item.modtrash.custom_spade": "Custom spade",
+  "item.modtrash.custom_sword": "Custom sword",
+  "item.modtrash.custom_helmet": "Custom helmet",
+  "item.modtrash.custom_chestplate": "Custom chestplate",
+  "item.modtrash.custom_leggings": "Custom leggings",
+  "item.modtrash.custom_boots": "Custom boots"
+}

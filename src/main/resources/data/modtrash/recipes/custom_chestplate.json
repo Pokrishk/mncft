@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "modtrash:sillycat"
+    }
+  },
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "result": {
+    "item": "modtrash:custom_chestplate"
+  }
+}

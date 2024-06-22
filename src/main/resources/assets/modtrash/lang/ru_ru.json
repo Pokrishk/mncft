@@ -1,0 +1,17 @@
+{
+  "item.modtrash.cat": "Кот",
+  "item.modtrash.sillycat": "Глупенький кот",
+  "itemGroup.modtrash_tab": "Треш мод",
+  "block.modtrash.silly_block": "Блок глупенького кота",
+  "block.modtrash.cat_ore": "Руда кота",
+  "block.modtrash.deepslate_cat_ore": "Глубинная руда кота",
+  "item.modtrash.custom_pickaxe": "Кастомная кирка",
+  "item.modtrash.custom_axe": "Кастомный топор",
+  "item.modtrash.custom_hoe": "Кастомная мотыга",
+  "item.modtrash.custom_spade": "Кастомная лопата",
+  "item.modtrash.custom_sword": "Кастомный меч",
+  "item.modtrash.custom_helmet": "Кастомный шлем",
+  "item.modtrash.custom_chestplate": "Кастомный нагрудник",
+  "item.modtrash.custom_leggings": "Кастомные поножи",
+  "item.modtrash.custom_boots": "Кастомные ботинки"
+}
